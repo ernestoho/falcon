@@ -48,7 +48,7 @@ Try it out yourself here [https://demo.deity.io](https://demo.deity.io)
 - **Commercial license** - A payment integration layer to easily connect any payment service provider, including Stripe, Adyen and Mollie
 - **Commercial license** - A hosted environment for optimal performance
 
-These are just a couple of advantages and features, feel free to contact us for more information at [deity.io/contact](deity.io/contact) or join our official slack channel [slack.deity.io](slack.deity.io).
+These are just a couple of advantages and features, feel free to contact us for more information at [deity.io/contact](https://deity.io/contact) or join our official slack channel [slack.deity.io](http://slack.deity.io).
 
 ### Start developing right away
 
@@ -66,7 +66,7 @@ Any contributions, small or big, are very welcome! Please take a look at our [Co
 
 ### Chat channel
 
-Join the official chat channel: [Deity Community Slack](http://slack.deity.io)
+Join the official chat channel: [DEITY Community Slack](http://slack.deity.io)
 
 ## Documentation
 
